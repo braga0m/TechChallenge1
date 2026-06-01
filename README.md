@@ -38,10 +38,8 @@ O projeto foi estruturado para atender aos quatro pilares do case:
 
 ### 📂 Estrutura de Pastas
 
-├── dados/               # Base de dados histórica
-├── notebooks/          # Jupyter Notebooks (EDA e Modelagem)
-├── models/             # Arquivos de modelos preditivos salvos
-├── reports/            # Apresentação gerencial (slides e pitch)
-└── README.md           # Documentação do projeto
+* dados - pasta com os dados do projeto.
+* códigos - pasta com os scripts e notebooks do projeto.
+* documentos - pasta com documentos auxiliares.
 
 ---
