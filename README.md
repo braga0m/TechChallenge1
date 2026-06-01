@@ -1,6 +1,6 @@
 # Tech Challenge - Fase 1: Case NPS Preditivo 🚀
 
-Este repositório contém o desenvolvimento do **Tech Challenge (Fase 1)** da Pós-Tech[cite: 1]. O objetivo do projeto é analisar dados operacionais de um e-commerce para entender a variabilidade do Net Promoter Score (NPS) e propor uma abordagem preditiva para agir de forma preventiva na experiência do cliente.
+Este repositório contém o desenvolvimento do **Tech Challenge (Fase 1)** da Pós-Tech FIAP. O objetivo do projeto é analisar dados operacionais de um e-commerce para entender a variabilidade do Net Promoter Score (NPS) e propor uma abordagem preditiva para agir de forma preventiva na experiência do cliente.
 
 ---
 
@@ -34,13 +34,14 @@ O projeto foi estruturado para atender aos quatro pilares do case:
 * **[Matheus 5](https://github.com/braga0m)**  **- RM:00005**
 
 
----
 
-## 📂 Estrutura de Pastas
 
-```text
-├── data/               # Base de dados histórica
+### 📂 Estrutura de Pastas
+
+├── dados/               # Base de dados histórica
 ├── notebooks/          # Jupyter Notebooks (EDA e Modelagem)
 ├── models/             # Arquivos de modelos preditivos salvos
 ├── reports/            # Apresentação gerencial (slides e pitch)
 └── README.md           # Documentação do projeto
+
+---
