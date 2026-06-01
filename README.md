@@ -27,7 +27,7 @@ O projeto foi estruturado para atender aos quatro pilares do case:
 * **Pipeline em Python:** Implementação contendo preparação de variáveis e métricas de avaliação.
 
 ### Colaboradores
-* **[Matheus Braga Milhomem] (https://github.com/braga0m)**
+* **[Matheus Braga Milhomem](https://github.com/braga0m)**
 * **[Matheus Braga Milhomem] - RM:[00002] (https://github.com/braga0m)**
 * **[Matheus Braga Milhomem] - RM:[00003] (https://github.com/braga0m)**
 * **[Matheus Braga Milhomem] - RM:[00004] (https://github.com/braga0m)**
