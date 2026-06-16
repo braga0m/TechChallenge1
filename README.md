@@ -21,11 +21,11 @@ Para reproduzir os resultados, basta realizar o clone deste repositório do GitH
 
 ### Colaboradores
 
-* **[Fernanda Florêncio da Silva](https://github.com/braga0m)**  **- RM:00002**
-* **[Leonardo Gomes de Azevedo](https://github.com/braga0m)**  **- RM:00003**
-* **[Julianna Karina de Oliveira Siqueira](https://github.com/braga0m)**  **- RM:00004**
-* **[Matheus Braga](https://github.com/braga0m)**  **- RM:374649**
-* **[Matheus Crisóstomo](https://github.com/braga0m)**  **- RM:00005**
+* **[Fernanda Florêncio da Silva](https://github.com/fernanda161082)** 
+* **[Leonardo Gomes de Azevedo](https://github.com/Basscientist)**  
+* **[Julianna Karina de Oliveira Siqueira](https://github.com/juliannasiqueira)**  
+* **[Matheus Braga](https://github.com/braga0m)**  
+* **[Matheus Crisóstomo](https://github.com/matheuscrstm)**
 
 
 
